@@ -17,9 +17,15 @@ ENJOY!
 Original BY XDemonic of ac-web.org
 
 Converted to Eluna by slp13at420
+
 horde stage gps
+
 map 1 -- Durotar
+
 x 1274.895996
+
 y -4337.253418
+
 z 33.097614
+
 o 6.188954
